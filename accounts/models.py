@@ -42,7 +42,7 @@ class MyAccountManager(BaseUserManager):
 
 
 
-
+# Abc
 class Account(AbstractBaseUser):
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
