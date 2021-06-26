@@ -3,7 +3,6 @@ from django.shortcuts import get_object_or_404, render
 from category.models import Category
 
 
-
 def store(request, category_slug=None):
     categories = None
     products  = None
@@ -16,7 +15,7 @@ def store(request, category_slug=None):
     else:
         products = Product.objects.all().filter(is_available=True)
         product_count = products.count()
-        
+
     context = {
         'products' : products,
         'product_count' : product_count,
