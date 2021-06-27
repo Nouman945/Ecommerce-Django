@@ -1,5 +1,4 @@
-# Currently This Application is Under Development And Updated Daily. Any contributions are welcome. 
-# We want to Creaet this best Ecommerce Platform
+## Currently This Application is Under Development And Updated Daily. Any contributions are welcome. We want to Creaet this best Ecommerce Platform
 
 ### Django Custom User Model, Category & Media Files
 * Cateroy Model
