@@ -4,3 +4,10 @@
 * Cateroy Model
 * A Custom user model
 * Media Files Setup
+
+###Working with Products
+* Store App
+* Products Model
+* Render Products on Home Page
+* Render Products on Store Page
+* Display Products by Categories
