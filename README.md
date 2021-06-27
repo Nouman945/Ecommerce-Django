@@ -5,7 +5,7 @@
 * A Custom user model
 * Media Files Setup
 
-###Working with Products
+### Working with Products
 * Store App
 * Products Model
 * Render Products on Home Page
