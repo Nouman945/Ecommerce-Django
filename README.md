@@ -1,3 +1,13 @@
-# Currently This Application is Under Development. Any contributions are welcome.
+## Currently This Application is Under Development And Updated Daily. Any contributions are welcome. We want to create best Ecommerce Platform
 
-The Goal for this Project is to Create the Biggest Ecommerce Site With All the Functionalities of Major Ecommerce Platforms. 
+### Django Custom User Model, Category & Media Files
+* Cateroy Model
+* A Custom user model
+* Media Files Setup
+
+### Products Model
+* Store App
+* Products Model
+* Render Products on Home Page
+* Render Products on Store Page
+* Display Products by Categories
